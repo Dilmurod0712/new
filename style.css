@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+span, a {
+    display: inline-block;
+}
+.link {
+    text-decoration: none;
+    color: white;
+    margin-right: 5px;
+}
+.link2{
+    margin-right: 5px;
+    text-decoration: none;
+    color: #808080;
+}
+.all {
+    background-color: #010001;
+}
+.top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 25px;
+}
+.line {
+    width: 2px;
+    height: 60px;
+    background-color: white;
+    opacity: 0.7;
+    margin: 0 auto;
+}
+.center {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
+    margin-top: 100px;
+}
+.pic2 {
+    width: 1000px;
+}
+.p {
+    opacity: 0.7;
+    width: 200px;
+    font-size: 12px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.title {
+    font-size: 40px;
+}
+.divs {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.middle {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+.about {
+    text-transform: uppercase;
+    margin-top: 34px;
+    opacity: 0.9;
+}
+.h3 {
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.size {
+    margin-top: 34px;
+    opacity: 0.9;
+}
+.left {
+    width: 500px;
+}
+.span {
+    opacity: 0.7;
+}
+.p2 {
+    width: 550px;
+    opacity: 0.7;
+}
+.h8 {
+    font-size: 45px;
+    margin: 20px 0;
+}
+.text3{
+    margin-top: 250px;
+}
+.bottom {
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.link3 {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divv {
+    opacity: 0.7;
+}
+.btn {
+    color: white;
+    border: 3px solid white;
+    background-color: transparent;
+    border-radius: 3px;
+    padding: 15px 50px;
+    font-size: 20px;
+    margin-top: 19.9px;
+}
+
